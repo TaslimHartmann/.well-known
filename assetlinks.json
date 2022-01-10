@@ -1,0 +1,14 @@
+[
+   {
+      "relation":[
+         "delegate_permission/common.handle_all_urls"
+      ],
+      "target":{
+         "namespace":"android_app",
+         "package_name":"id.aladinbank.mobile.dev",
+         "sha256_cert_fingerprints":[
+            "9F:76:A4:36:54:23:B8:D9:5A:9A:82:B2:4C:9E:6D:33:33:51:23:7F:4B:B4:CB:0F:40:17:1F:E1:B9:BB:C4:36"
+         ]
+      }
+   }
+]
